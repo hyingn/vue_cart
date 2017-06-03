@@ -1,0 +1,60 @@
+{
+  "status": 0,
+  "message": "success",
+  "results": [
+    {
+      "name": "喵星人",
+      "gifts": ["萌萌"],
+      "price": 19,
+      "count": 1,
+      "amount": 38,
+      "imgPic": "https://aliyun.tbscache.com/res/homepage/images/weishengjian.jpg",
+      "allCount":10
+    },
+    {
+      "name": "手机",
+      "gifts": ["手机壳","贴膜"],
+      "price": 20,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "http://cdn01.tobosu.net/impress_pic/2016-11-20/p_5831134ccdd51.jpg",
+      "allCount":20
+    },
+    {
+      "name": "大白",
+      "gifts": ["抱枕"],
+      "price": 15,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "https://cdn01.tobosu.net/impress_pic/2017-02-27/p_58b3ea059afd6.jpg",
+      "allCount":25
+    },
+    {
+    "name": "水杯",
+    "gifts": ["萌萌"],
+    "price": 19,
+    "count": 1,
+    "amount": 38,
+    "imgPic": "https://aliyun.tbscache.com/res/homepage/images/weishengjian.jpg",
+    "allCount":10
+    },
+    {
+      "name": "盆栽",
+      "gifts": ["手套","铲子"],
+      "price": 20,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "http://cdn01.tobosu.net/impress_pic/2016-11-20/p_5831134ccdd51.jpg",
+      "allCount":20
+    },
+    {
+      "name": "小白",
+      "gifts": ["抱枕"],
+      "price": 15,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "https://cdn01.tobosu.net/impress_pic/2017-02-27/p_58b3ea059afd6.jpg",
+      "allCount":25
+    }
+  ]
+}
